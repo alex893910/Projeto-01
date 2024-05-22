@@ -1,0 +1,49 @@
+.img1{
+    text-align: center;
+}
+.img2{
+    float:right;
+    position: fixed;
+    top: 15px;
+    right: 0;
+}
+.G1{
+    color: black;
+    float:right;
+    position: fixed;
+    top: 25px;
+    right: 100px;
+   }
+.input1{
+    text-align: center;
+    height: 20px;
+}
+.input2{
+    position: relative;
+    text-align: center;
+    top:20px;
+}
+
+.B{
+    text-align: left;
+    position: absolute;
+   bottom: 20px;
+   width: 90%
+}
+.R1{
+    
+   text-align: left;
+   position: absolute;
+   bottom: 20px;
+   
+
+}
+ .R2{
+    text-align: right;
+    position: absolute;
+   bottom: 20px;
+   width: 90%; 
+    
+
+ }
+ 
